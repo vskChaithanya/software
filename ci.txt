@@ -1,3 +1,0 @@
-pytest
-/.github
-/workflows/python-ci.yml
